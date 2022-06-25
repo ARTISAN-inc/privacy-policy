@@ -1,3 +1,11 @@
+<html lang="ja">
+<head>
+<title>株式会社ARTISANプライバシーポリシー</title>
+<meta charset="UTF-8">
+<meta name="robots" content="noindex" />
+</head>
+<body>
+
 <h2 style='text-align:center'>個人情報保護方針（プライバシーポリシー）</h2>
 
 <br />
@@ -285,3 +293,6 @@
 〒151-0063 東京都渋谷区富ヶ谷2丁目20-18　ルーブル渋谷松濤310
 
 info@artsn.jp
+
+</body>
+</html>
