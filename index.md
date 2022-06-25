@@ -1,6 +1,6 @@
 <html lang="ja">
 <head>
-<title>株式会社ARTISANプライバシーポリシー</title>
+<title>株式会社ARTISAN プライバシーポリシー</title>
 <meta charset="UTF-8">
 <meta name="robots" content="noindex" />
 </head>
