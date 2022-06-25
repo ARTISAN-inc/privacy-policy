@@ -14,7 +14,7 @@ jobs:
       - name: Markdown To HTML
         uses: docker://pandoc/core:2.9
         with:
-          args: -f markdown -t html index.md > index.html
+          args: -f markdown -t html index.html
       - name: Publish to AWS S3 & CloudFront Cache Clear
         uses: opspresso/action-s3-sync@master
         env:
